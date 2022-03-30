@@ -52,8 +52,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[For sizing of images in button: https://www.w3schools.com/cssref/css3_pr_background-size.asp 
-For audio sounds: https://www.w3schools.com/html/html5_audio.asp]
+For sizing of images in button: https://www.w3schools.com/cssref/css3_pr_background-size.asp 
+For audio sounds: https://www.w3schools.com/html/html5_audio.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [After completing the pre-work I can say that one challenged I encountered was getting the program to produce a random pattern each time it ran. This was an issue because I had difficultly altering the existing code at first. I understood that the sequence array needed to be empty because if it had set values then it would not be able to change. I had to create another variable that defined the length of the array which set bounds for the code as to how many different numbers needed to be generated in one round. Then I had to work with the Math.random function which was not that difficult since all I needed to do was define a new function and define the maximum and minimum number. I used a for-loop so there were multiple random numbers generated and set the bound as less than the pattern length instead of a definite number in case the pattern length was changed. A for loop was used to generate a different number for each “i” or each new round that the user progressed. I overcame this issue by understanding the fundamentals of the issue and realizing that a function was needed to create the new sequence and then it needed to be called in order to put it to use. Understanding the issue and logic was what allowed me to progress and overcome this issue.]
