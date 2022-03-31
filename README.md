@@ -6,7 +6,7 @@ Submitted by: Marco Korcak
 
 Time spent: **6** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/lizard-groovy-castanet)
+Link to project: (https://lizard-groovy-castanet.glitch.me/)
 
 ## Required Functionality
 
