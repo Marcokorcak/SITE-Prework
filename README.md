@@ -41,7 +41,8 @@ The following **additional** features are implemented:
 
 
 
-## Video Walkthrough
+## Video Walkthrough!
+
 
 Here is a gif of a user getting the correct guesses each time and completing the game
 
@@ -51,9 +52,9 @@ Here is a gif of a user making mistakes, getting warnings and the game ending si
 
 ![](https://user-images.githubusercontent.com/77298953/160968471-799fd394-c29e-46c8-a859-b628cd752b7f.gif)
 
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+Here is a gif of the buttons and the pictures in each button
+
+![](https://user-images.githubusercontent.com/77298953/160969170-4d6b9e85-177f-4672-8bfa-7fd2b1597b2c.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
