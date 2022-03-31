@@ -4,7 +4,7 @@
 
 Submitted by: Marco Korcak
 
-Time spent: **4** hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/lizard-groovy-castanet)
 
@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 - [X] Audio file that plays while the user hasnt started and stops when the game is started
 - [X] Mute and unmute buttons for the audio that is playing
 - [X] User gets a notification saying how many mistakes they have made so far
-- [X] Solid background image
+- [X] Custom background image
 
 
 
