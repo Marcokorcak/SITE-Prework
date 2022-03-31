@@ -3,7 +3,11 @@ html {
   box-sizing: border-box;
   font-size: 16px;
   font-family: sans-serif;
-
+background-image: url("https://cdn.glitch.global/66d940fb-a619-4a77-ba81-b601f0964f2e/1.jpg?v=1648704092730");
+  background-position: center center;
+  background-size: cover;
+  width:100%;
+  height:100%; 
 }
 
 *,
@@ -17,7 +21,6 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-  background-image: url("https://cdn.glitch.global/66d940fb-a619-4a77-ba81-b601f0964f2e/10.jpg?v=1648604377794");
   background-position: center center;
   background-size: cover;
   color: white;
