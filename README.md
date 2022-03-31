@@ -66,7 +66,8 @@ After completing the pre-work I can say that there were numerous challenges I fa
 After completing this assignment, I have numerous questions about web development and creating a website for users. When making this website I wondered what steps professional web developers take in order to ensure that the website does not crash and can handle what the user wants. When coding it must be assumed that the user can do something the developer did not account for so measures must be taken to prevent these incidents from happening, but I was curious as to what specific strategies or methods are done to combat this issue. Additionally, I was also curious as to how many iterations a website goes through until it reaches its final form. There are numerous ways that I could improve this website if more time was spent on it and was curious how developers know what to improve and how to improve the website. Moreover, I also wondered how other aspects of web development such as back-end and databases could be implemented into a website like this. I would like to understand how back-end works with front-end to create a functioning website that serves a purpose yet is entertaining. Lastly, I wonder how web developers know when to implement a certain aspect or not or chose a certain aspect over another. There are various ways that a website could be built but I wonder how developers know when to sacrifice performance for visuals or the opposite. What kind of criteria must be met of process must be examined before these decisions are made.   
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+If I had a few more hours to spend working on this project I would improve it in numerous ways. To start off, I would create a leaderboard that kept track of how fast users completed the game and what their score was. I would implement this feature to give the game a sense of competition as well as attract other users to see if they could beat their friends score or their own previous score. Additionally, I would also implement a button that would change the theme of the website. There would be a button that when it is pressed it could change the background image as well as the button images so that there could be variety in the user experience. I think this would be unique and also serve the purpose of giving the user some control over the visuals of the website. Moreover, l think that implementing levels to this would be useful. This would allow the user to experience the variety of difficulty that the game would provide and see how many levels they can complete. The levels would increase in difficulty with a fast sequence playback as well as more buttons to choose from in each progressive round. Lastly, I think a feature where the user can change the buttons and use the program as a study resource would be useful. This would be accomplished by allowing the user being able to change the pictures to text and giving themselves numerous options to chose from. The user would then have the options randomly sorted and need to remember what the correct answer is out of the possible options. Overall, the website that was created could be modified to serve a variety of purposes.   
 
 
 
@@ -77,7 +78,7 @@ After completing this assignment, I have numerous questions about web developmen
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Marco Korcak]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
