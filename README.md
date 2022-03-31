@@ -43,8 +43,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+Here is a gif of a user getting the correct guesses each time and completing the game
 
-Here is a gif of a user making mistakes, getting warnings and the game ending since they used all or their attempts.
+![](https://user-images.githubusercontent.com/77298953/160968906-f277de8b-2179-4614-a496-73f4ee0f8acd.gif)
+
+Here is a gif of a user making mistakes, getting warnings and the game ending since they used all or their attempts
 
 ![](https://user-images.githubusercontent.com/77298953/160968471-799fd394-c29e-46c8-a859-b628cd752b7f.gif)
 
